@@ -1,0 +1,1 @@
+This is changes by dev A in file 3.txt
